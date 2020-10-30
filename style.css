@@ -35,4 +35,8 @@ h1 {
         width: 132vw;
     }
 }
+
+.letter {
+    z-index: 3;
+}
 /*# sourceMappingURL=style.css.map */
