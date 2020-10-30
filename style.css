@@ -27,6 +27,12 @@ h1 {
     transform: translate(-25%,-50%);
     z-index: 2;
     width: 0;
+    border-radius: 50px;
     animation: ligne 10s linear forwards;
+}
+@keyframes ligne{
+    to{
+        width: 132vw;
+    }
 }
 /*# sourceMappingURL=style.css.map */
