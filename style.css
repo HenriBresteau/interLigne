@@ -19,7 +19,7 @@ h1 {
 }
 
 .ligne {
-    background: rgba(255, 166, 100, 0.85);
+    background: rgb(255, 166, 100);
     height: 1rem;
     position: absolute;
     top: 50%;
