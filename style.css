@@ -1,8 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 body {
     background-color: rgb(100, 100, 100);
-    font-family: 'Syne Mono', monospace;
+    font-family: 'Ubuntu', sans-serif;
 }
 h1 {
     font-size: 8rem;
@@ -15,7 +14,6 @@ h1 {
     margin: 0;
     text-transform: uppercase;
     text-shadow: 4px 4px 0 rgba(255, 166, 100, 0.85), 7px 7px 0 rgba(0 , 0, 0, 0.5);
-    letter-spacing: 1rem;
 }
 
 .ligne {
